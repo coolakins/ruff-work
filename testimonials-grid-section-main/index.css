@@ -153,8 +153,6 @@ span {
   padding-bottom: 15px;
 }
 @media (width > 640px) {
-  
-
   .container {
     max-width: 850px;
     display: grid;
